@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Download directories and media files
+insta_videos_downloads/
+downloads/
+download/
+*.mp4
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Instaloader session files and cookies
+*.session
+*cookies*.txt
+
+# Environments & Virtualenv
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
